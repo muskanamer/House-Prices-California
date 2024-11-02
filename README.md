@@ -1,4 +1,10 @@
 # House-Prices-California
+# Dataset Used
+
+**Dataset**: California Housing Prices Dataset
+**Source**: [Kaggle - California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
+**Description**: This dataset contains information about California housing prices, including features such as the number of rooms, population, and median income, which are used to predict and classify house prices.
+
 
 This project is about predicting and categorizing house prices in California. I used machine learning to estimate prices and sort them into "High" or "Low" categories based on the median price.
 
